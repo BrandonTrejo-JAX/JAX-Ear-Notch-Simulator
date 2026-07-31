@@ -1,9 +1,12 @@
 User Guide & Training Manual
+
 Created by Brandon Trejo
+
 Purpose
 This tool is designed to help laboratory staff learn, refresh, or practice mouse ear notch numbering using the JAX ear notching system. The simulator provides ways to practice  both applying ear notching based on a given number and reading existing ear notches. 
 The simulator can also generate randomized practice numbers for hands-on training in the laboratory. 
 Instructions for using the simulator are provided on the following page. 
+
 JAX Ear Notch Numbering System:
  
 Mouse Right Ear: Hole Punches = 1,2,3; Single Notches = 4,5,6; Double Notches = 7,8,9; Center Punch = 100.
