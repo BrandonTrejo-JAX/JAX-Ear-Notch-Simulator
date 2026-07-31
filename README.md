@@ -2,7 +2,7 @@ User Guide & Training Manual
 
 Created by Brandon Trejo
 
-Purpose
+Purpose:
 This tool is designed to help laboratory staff learn, refresh, or practice mouse ear notch numbering using the JAX ear notching system. The simulator provides ways to practice  both applying ear notching based on a given number and reading existing ear notches. 
 The simulator can also generate randomized practice numbers for hands-on training in the laboratory. 
 Instructions for using the simulator are provided on the following page. 
@@ -13,24 +13,32 @@ Mouse Right Ear: Hole Punches = 1,2,3; Single Notches = 4,5,6; Double Notches = 
 Mouse Left Ear: Hole Punches = 10,20,30; Single Notches = 40,50,60; Double Notches = 70,80,90; Center Punch = 200.
 The total sum of all ear punches and notches equals the mouse identification number.
 Example: 200 + 30 + 5 = Mouse #235
+
 Important Notes: 
+
 •	One ear cannot contain more than three notch positions. 
 •	Two notch positions from the same ear cannot be combined unless with a center punch (Valid: 100 +9 or 200 +20; Invalid: 2 + 9 or 40 +10).
 •	First position (1, 4, 7, 10, 40, 70) is located on the ear flap at the base of the ear.
+
 Simulator Instructions:
+
 Starting a Training Session:
+
 1.	Select a difficulty level.
 a.	Easy – Notch values are overlayed and reference key is visible.
 b.	Medium – Notch values are hidden and reference key is visible.
 c.	Hard – Notch values and reference key are hidden.
-2.	Select a training mode: 
+
+3.	Select a training mode: 
 a.	Ear Notching Mode – A mouse number is displayed. Select the appropriate ear notches and center punches to match the mouse number, then click Submit Answer.
 b.	Reading Ear Notches Mode – A completed ear notch pattern is displayed. Determine the mouse number, enter it in the input field, and submit your answer.
-3.	Select an orientation
+
+4.	Select an orientation
 a.	Facing me – Mouse faces the user
 b.	Facing away – Mouse is viewed from behind
 c.	Random – Alternates between the two
-4.	Click Start Training
+
+5.	Click Start Training
 
 Feedback Colors: 
 Blue – Your selections | Red – Incorrect selections | Green outline = Correct locations
